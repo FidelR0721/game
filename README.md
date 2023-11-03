@@ -26,5 +26,4 @@
 * The option "Quit" will close the game
 
 #***Source Code***
-#Our source code is available on our GitHub page (link). It contains the source code for the original version of our game, however the code itself wasn't changed, instead the assets were repurposed. 
-#
+#Our source code is available on our GitHub page (https://github.com/FidelR0721/game). It contains the source code for the original version of our game, however the code itself wasn't changed, instead the assets were repurposed. 
